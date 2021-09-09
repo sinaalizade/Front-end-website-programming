@@ -1,4 +1,4 @@
-# Website-designing using HTLM, CSS, and JavaScript
+# Front-end Website-designing using HTLM, CSS, and JavaScript
 IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
 For this project, I've chosen PhpStorm as an IDE for programming easier
 Benefits of PHPstrom:
